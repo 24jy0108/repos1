@@ -31,6 +31,15 @@ __ここがstrongタグで強調されます__
 |かか|きき|くく|けけ|ここ|
 |さささ|しし|すすす|せせせ|そそそ|
 
+```
+for(int i=0; i<10; i++){
+    int rand = (int)(Math.random()*10);
+    System.out.println("乱数[" + i + "]:" + rand);
+}
+```
+
+![H3ロケット](https://www.jaxa.jp/projects/rockets/h3/images/h3_main_001.jpg)
+
 https://www.jec.ac.jp  
 [日本電子専門学校へリンク](https://www.jec.ac.jp)  
 [日本電子専門学校へリンク](https://www.jec.ac.jp "https://www.jec.ac.jp")  
