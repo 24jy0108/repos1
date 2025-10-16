@@ -14,6 +14,23 @@ __ここがstrongタグで強調されます__
 <details><summary>要約をここに記述する</summary>
 本文をここから書く。xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</details>
 
+- HTML
+- JAVA
+- PHP
+
+1. SQL
+1. JavaScript
+1. SQL
+
+- [ ] タスク1
+- [x] タスク2
+
+|A列|B列|C列|D列|E列|
+|-|:-:|:-|-:|-|
+|あ|い|う|え|お|
+|かか|きき|くく|けけ|ここ|
+|さささ|しし|すすす|せせせ|そそそ|
+
 https://www.jec.ac.jp  
 [日本電子専門学校へリンク](https://www.jec.ac.jp)  
 [日本電子専門学校へリンク](https://www.jec.ac.jp "https://www.jec.ac.jp")  
